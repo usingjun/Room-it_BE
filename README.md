@@ -147,8 +147,9 @@ ___
 
 
 </details>
-<details><summary>요구사항 명세서
-</summary>
+<details><summary> 시퀀스 다이어그램 </summary>
+- 채팅 다이어그램
+<img width="623" height="602" alt="채팅순서도 리팩토링v drawio" src="https://github.com/user-attachments/assets/27ddb755-30bf-4204-b192-13d3753ffb2a" />
 
 
 </details>
