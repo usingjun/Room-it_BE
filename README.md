@@ -133,24 +133,24 @@ ___
 
 <details><summary>ERD</summary>
 
-![BUMBLEBEE_ROOMIT (1)](https://cdn.discordapp.com/attachments/1305460123199733782/1319622097110040637/PNG.png?ex=6766a159&is=67654fd9&hm=b7f6f4ea5989f57f5b77fac96e03c9eb9b2c469635707ac33bd30a5bf696c0f2&)
+![BUMBLEBEE_ROOMIT (1)](https://sand-wallet-2fa.notion.site/ERD-18da31a12a4281b182b9d11ee5d31a3e)
 </details>
 
 <details><summary>API 명세서
 </summary>
 
-- [API 명세서](https://www.notion.so/prgrms/API-215425efa80a46e09d3fd7a15de05e88)
+- [API 명세서](https://sand-wallet-2fa.notion.site/API-18da31a12a4281218456f550b7af6a9b?pvs=74)
 </details>
-
-<details><summary>요구사항 명세서
-</summary>
 
 
 </details>
 <details><summary> 시퀀스 다이어그램 </summary>
 - 채팅 다이어그램
 <img width="623" height="602" alt="채팅순서도 리팩토링v drawio" src="https://github.com/user-attachments/assets/27ddb755-30bf-4204-b192-13d3753ffb2a" />
-
+- 결제 시퀀스 다이어그램
+<img width="1026" height="605" alt="image" src="https://github.com/user-attachments/assets/bbcee63f-a157-4537-bcdf-6fbc91cf7976" />
+- OAuth2.0 시퀀스 다이어그램
+![image.png](attachment:607d295d-071f-4775-ac96-65c66fbcd687:image.png)
 
 </details>
 
