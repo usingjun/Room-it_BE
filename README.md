@@ -145,12 +145,15 @@ ___
 
 </details>
 <details><summary> 시퀀스 다이어그램 </summary>
+  
 - 채팅 다이어그램
 <img width="623" height="602" alt="채팅순서도 리팩토링v drawio" src="https://github.com/user-attachments/assets/27ddb755-30bf-4204-b192-13d3753ffb2a" />
+
 - 결제 시퀀스 다이어그램
 <img width="1026" height="605" alt="image" src="https://github.com/user-attachments/assets/bbcee63f-a157-4537-bcdf-6fbc91cf7976" />
+
 - OAuth2.0 시퀀스 다이어그램
-![image.png](attachment:607d295d-071f-4775-ac96-65c66fbcd687:image.png)
+<img width="760" height="700" alt="image" src="https://github.com/user-attachments/assets/df48c37a-4f71-4fb1-ae59-537f0b95ca82" />
 
 </details>
 
@@ -158,12 +161,12 @@ ___
 <details><summary>컨벤션
 </summary>
 
-- [Git Commit Message Convention](https://www.notion.so/prgrms/13d3e47046bf811db094c51d832cfe13)
-- [Issue Template](https://www.notion.so/prgrms/13d3e47046bf811db094c51d832cfe13?p=10c6071bc0a94860b9d8f1c9ac8c2c96&pm=c)
-- [PR Convention](https://www.notion.so/prgrms/13d3e47046bf811db094c51d832cfe13?p=bbe1bb6a0b3546d5812e6e2144de4666&pm=c)
-- [정규 표현식](https://www.notion.so/prgrms/13d3e47046bf811db094c51d832cfe13?p=83129d2d30c3456881366e30eadd5a6c&pm=c)
-- [팀 규칙](https://www.notion.so/prgrms/13d3e47046bf813cbd56c4ef192fb9d7)
-- [벡엔드 코드 컨벤션](https://www.notion.so/prgrms/e58cc64114584e22a389ec60f60586fc#7c14a77a281a4866b954d0858b5b06e8)
+- [Git Commit Message Convention](https://sand-wallet-2fa.notion.site/Git-Commit-Message-Convention-18da31a12a428133b777e2746a966706?source=copy_link)
+- [Issue Template](https://sand-wallet-2fa.notion.site/Issue-Template-18da31a12a4281619e62eaf0e905c85b?source=copy_link)
+- [PR Convention](https://sand-wallet-2fa.notion.site/PR-Convention-18da31a12a428154ac28dea447a1805f?source=copy_link)
+- [정규 표현식](https://sand-wallet-2fa.notion.site/18da31a12a428111a8d5cd821a578dcd?source=copy_link)
+- [팀 규칙](https://sand-wallet-2fa.notion.site/18da31a12a42819cb57df5aa6cd7d764?source=copy_link)
+- [벡엔드 코드 컨벤션](https://sand-wallet-2fa.notion.site/18da31a12a4281ca8016cd5e975a72f4?source=copy_link)
 </details>
 
 ## ✨ 팀 소개
