@@ -133,7 +133,7 @@ ___
 
 <details><summary>ERD</summary>
 
-![BUMBLEBEE_ROOMIT (1)](https://sand-wallet-2fa.notion.site/ERD-18da31a12a4281b182b9d11ee5d31a3e)
+![BUMBLEBEE_ROOMIT (1)](https://sand-wallet-2fa.notion.site/ERD-18da31a12a4281b182b9d11ee5d31a3e?pvs=74)
 </details>
 
 <details><summary>API 명세서
